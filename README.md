@@ -29,7 +29,7 @@ Este projeto foi criado como uma forma de prática e aprendizado de desenvolvime
    ```bash
    git clone https://github.com/seu-usuario/gerador_de_qr_code.git
 
-🌐 Link Online
+## 🌐 Link Online
 
 Se preferir, você pode acessar a aplicação diretamente online via Vercel:
 
