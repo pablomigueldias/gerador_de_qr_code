@@ -31,6 +31,6 @@ Este projeto foi criado como uma forma de prática e aprendizado de desenvolvime
 
 ## 🌐 Link Online
 
-Se preferir, você pode acessar a aplicação diretamente online via Vercel:
+Se preferir, você pode acessar a aplicação diretamente online via Vercel: https://gerador-de-qr-code-nu.vercel.app/
 
 Gerador de QR Code Online
