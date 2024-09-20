@@ -9,10 +9,11 @@ Bem-vindo ao **Gerador de QR Code**! Este é um projeto de treino desenvolvido p
 - API de QR Code para geração de imagens.
 - Possibilidade de usar o projeto online sem necessidade de baixar, via Vercel.
 
-📥 Campo de Input
+## 📥 Campo de Input
+
 O campo de input permite que você insira links ou qualquer tipo de texto para gerar um QR Code correspondente.
 
-🎯 Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 
 Este projeto foi criado como uma forma de prática e aprendizado de desenvolvimento front-end, incluindo manipulação de DOM, eventos, e consumo de APIs externas.
 
