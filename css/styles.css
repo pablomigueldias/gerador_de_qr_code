@@ -5,7 +5,8 @@
 }
 
 body {
-  background-image: url(../img/fundoqr.jpg);
+  background-image: url(../img/1.png);
+  background-size: 2000px;
   display: flex;
   box-sizing: border-box;
   align-items: center;
